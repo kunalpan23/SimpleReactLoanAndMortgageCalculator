@@ -1,3 +1,5 @@
+/* Don't Hesitate to use the code and logic its Free :D Enjoy!!! */
+
 import React from "react";
 import Select from "react-select";
 
